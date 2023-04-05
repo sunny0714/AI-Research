@@ -11,3 +11,6 @@
 - https://github.com/gaocegege/awesome-open-source-mlops
 - https://github.com/ozanix/ML_Tool
 - https://github.com/tensorflow/tensorflow
+- https://github.com/keras-team/keras
+- https://github.com/Theano/Theano
+- https://github.com/aesara-devs/aesara
